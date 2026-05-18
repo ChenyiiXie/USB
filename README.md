@@ -5,7 +5,7 @@ USB evaluates vision-language models on unstructured autonomous-driving scenes w
 ## Environment
 
 ```bash
-git clone <your-repo-url> USB
+git clone https://github.com/ChenyiiXie/USB.git
 cd USB
 
 conda create -n drivebench python=3.11 -y
